@@ -1,0 +1,1 @@
+print("Hello! This is explore, I don't know what it looks like, as I posted this on the day it came out, but yeah! This it a test for Expore! It looks as if it is a second Replit Talk, but we will have to see! - Wilke000")
